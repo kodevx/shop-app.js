@@ -1,3 +1,6 @@
+A Simple Web Application to purchase a list of products developed using react.js Bootstrap and Material-ui design.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
