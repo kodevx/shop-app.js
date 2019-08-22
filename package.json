@@ -10,7 +10,10 @@
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
+  "homepage":"https://kodevx.github.io/shop-app.js",
   "scripts": {
+    "deploy":"npm run build"
+    "pre-deploy":"gh-pages -d build"
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
