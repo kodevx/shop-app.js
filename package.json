@@ -13,7 +13,7 @@
   "homepage":"https://kodevx.github.io/shop-app.js",
   "scripts": {
     "deploy":"npm run build",
-    "pre-deploy":"gh-pages -d build",
+    "predeploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
